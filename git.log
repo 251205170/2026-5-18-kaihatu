@@ -1,8 +1,33 @@
+commit 4ddb08c410fabb8467c9855ef07b8fd547e35387
+Author: Kento Masuda <237185557+251205170@users.noreply.github.com.>
+Date:   Mon May 18 14:28:07 2026 +0900
+
+    Create git.log
+
+commit 00b52fec4dc6dd0b1adc67574cff495f49177d7d
+Merge: 5615c08 3fdc359
+Author: Kento Masuda <237185557+251205170@users.noreply.github.com.>
+Date:   Mon May 18 14:27:26 2026 +0900
+
+    Merge branch 'main' of https://github.com/251205170/2026-5-18-kaihatu
+
+commit 3fdc359211d35e8d1e244d253650f097b3f33f50
+Author: masu <237185557+251205170@users.noreply.github.com>
+Date:   Mon May 18 14:25:43 2026 +0900
+
+    Update tetris.js
+
 commit 5615c08840e8ca6a12eed7c3558091c577174de5
 Author: Kento Masuda <237185557+251205170@users.noreply.github.com.>
 Date:   Mon May 18 14:16:38 2026 +0900
 
     青をスカイブルーに変えました
+
+commit 5bffa745ba44fa297bcba8a3efad342e32547f4f
+Author: masu <237185557+251205170@users.noreply.github.com>
+Date:   Mon May 18 14:15:57 2026 +0900
+
+    シアンをスカイブルーに変更
 
 commit b274fecbae95994e3b22f3767a3d3455a386f3e0
 Author: Kento Masuda <237185557+251205170@users.noreply.github.com.>
